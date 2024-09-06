@@ -471,7 +471,7 @@ spl-instruction-padding = "0.2"
 spl-memo = "=5.0.0"
 spl-pod = "=0.3.0"
 spl-token = { git = "https://github.com/XDeFi-tech/solana-program-library", branch = "fix/update-solana-program", version = "6.0.0" }
-spl-token-2022 = "=4.0.0"
+spl-token-2022 = { git = "https://github.com/XDeFi-tech/solana-program-library", branch = "fix/update-solana-program", version = "6.0.0" }
 spl-token-group-interface = "=0.3.0"
 spl-token-metadata-interface = "=0.4.0"
 static_assertions = "1.1.0"
